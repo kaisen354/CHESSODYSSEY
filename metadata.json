@@ -1,0 +1,7 @@
+{
+  "name": "ChessOdyssey",
+  "description": "ChessOdyssey is a Neuro-Symbolic Cognitive Engine that fuses the visual reasoning of LLM MODELS with the precision of algorithmic game theory to democratize Grandmaster-level intuition for everyone.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
